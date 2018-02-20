@@ -10,10 +10,12 @@ Para replicar el proyecto se lo debe descargar o clonarlo usando git.
 
 El proyecto funciona correctamente con los siguientes requisitos:
 
-*Sistema operativo: Ubuntu 16.04
-*Python: 2.7
+*[Sistema operativo: Ubuntu 16.04]
+*[Python: 2.7]
+*[Curl 7.47.0]
+*[Pip 9.0.1]
 
-'adium-theme-ubuntu==0.3.4', 'backports.weakref==1.0.post1', 'bleach==1.5.0', 'certifi==2017.11.5', 'chardet==3.0.4', 'configparser==3.5.0b2', 'couchdb==1.1', 'cycler==0.9.0', 'elasticsearch==6.1.1', 'funcsigs==1.0.2', 'h5py==2.7.1', 'html5lib==0.9999999', 'idna==2.6', 'jsonpyes==1.3.1', 'keras==2.0.1', 'markdown==2.6.9', 'matplotlib==1.5.1', 'mock==2.0.0', 'nltk==3.2.5', 'numpy==1.13.1', 'oauthlib==2.0.6', 'pbr==3.1.1', 'pillow==3.1.2', 'pip==9.0.1', 'protobuf==3.4.0', 'pydot-ng==1.0.0', 'pygobject==3.20.0', 'pyparsing==2.0.3', 'python-dateutil==2.4.2', 'pytz==2014.10', 'pyyaml==3.12', 'requests-oauthlib==0.8.0', 'requests==2.18.4', 'scikit-learn==0.19.1', 'scipy==1.0.0', 'setuptools==36.5.0', 'simplejson==3.13.2', 'six==1.11.0', 'tensorflow-tensorboard==0.1.6', 'tensorflow==1.3.0', 'textblob==0.15.1', 'theano==0.9.0', 'tweepy==3.5.0', 'unity-lens-photos==1.0', 'urllib3==1.22', 'virtualenv==15.0.1', 'werkzeug==0.12.2', 'wheel==0.30.0'
+
 
 ```
 Give examples
