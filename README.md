@@ -18,22 +18,18 @@ El proyecto funciona correctamente con los siguientes requisitos:
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-
+- Una vez descargado el proyecto exportalo al sistema operativo recomendado
+- Descomprimirlo.
+- Ejecutar los respectivos scrpits con las herrramientas respectivas
 ## Authors
 
 - Beltran Daniel
 - Criollo José
 ## ASIGNATURA
 Inteligencia de Negocios
+
 Escuela Politecnica Nacional
+
 Ingenieria de Ssitemas
 ## Edisión
 2017-B
