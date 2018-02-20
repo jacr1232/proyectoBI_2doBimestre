@@ -1,0 +1,34 @@
+{
+
+    "took": 20,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "failed": 0
+    },
+    "hits": {
+        "total": 201,"max_score": 0.50319594,"hits": [
+            {
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTsmeCPPsVTpSMoVJ","_score": 0.50319594,"_source": {
+                    "value": "Estamos a 3 das de la Consulta Popular y los cuencanos le decimos 7 veces S Juntos construyamos democracia httpstcoFeGi5BpgA2","id": "959098806800404481","key": 959098806800404500}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTs48CPPsVTpSMoWh","_score": 0.3474633,"_source": {
+                    "value": "Le dcimos S a la Consulta Popular porque reafirma la democracia en el pas adems refuerza pilares fundamentales httpstco5pMVQgsVeI","id": "959134302691889152","key": 959134302691889200}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTv1yCPPsVTpSMol4","_score": 0.31051663,"_source": {
+                    "value": "Marcelo Cabrera alcalde Cuenca votar a las 0900 en Las Marianitas para este referndum y consulta popular 2018 MercurioEc mercurioec","id": "960114627857321985","key": 960114627857322000}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTwdpCPPsVTpSMoo_","_score": 0.26079226,"_source": {
+                    "value": "La consulta no consulta Vota si o vota no Pan con caca para todos","id": "960219747043495937","key": 960219747043496000}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTwQBCPPsVTpSMon8","_score": 0.19163354,"_source": {
+                    "value": "El afrentoso borrego vota por el NO va siempre a votar con la camiseta de Ecuador o una camiseta verde","id": "960193756791296000","key": 960193756791296000}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTwPxCPPsVTpSMon7","_score": 0.16056393,"_source": {
+                    "value": "Seguimos analizando las 7 preguntas de la Consulta Popular nos encontramos en RadioCiudad1017 httpstcoT0z5MqiDHW","id": "960193500951273473","key": 960193500951273500}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTxTaCPPsVTpSMotV","_score": 0.15659879,"_source": {
+                    "value": "pablo_pueblo_yo InfobaeAmerica Nunca fue aprobado en consulta popular si no sabe no se meta","id": "960331834147196928","key": 960331834147196900}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTwFNCPPsVTpSMonM","_score": 0.15083373,"_source": {
+                    "value": "Nos encontramos en tomebamba para analizar las 7 preguntas de la Consulta Popular ConsultaPopular2018 httpstcoATP2tj0X9P","id": "960169018916245508","key": 960169018916245500}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTo9eCPPsVTpSMoCU","_score": 0.14325647,"_source": {
+                    "value": "Perdn pero adjunto al oficio lleg el material para la consulta popular MunicipioCuenca planificacionM2 httpstcok2GmD2ii5c","id": "957672646803640321","key": 957672646803640300}},{
+                "_index": "tws_cuenca","_type": "id_texto","_id": "AWGyTwJ8CPPsVTpSMoni","_score": 0.14325647,"_source": {
+                    "value": "Continuamos la jornada de trabajo ahora estamos en ondasazuayas analizando la Consulta Popular httpstcoqmuHoB3N5A","id": "960179000814587905","key": 960179000814587900}}]}
+
+}

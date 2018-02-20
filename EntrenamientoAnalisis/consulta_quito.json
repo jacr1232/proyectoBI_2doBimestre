@@ -1,0 +1,34 @@
+{
+
+    "took": 20,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "failed": 0
+    },
+    "hits": {
+        "total": 905,"max_score": 0.4609868,"hits": [
+            {
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyUsjTCPPsVTpSMqlq","_score": 0.4609868,"_source": {
+                    "value": "Casa llena en la USFQ_Ecuador para escuche el debate sobre la consulta popular Democracia httpstcoNUYz1bKOU6","id": "958450055693746176","key": 958450055693746200}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyVClSCPPsVTpSMsZT","_score": 0.41031346,"_source": {
+                    "value": "VDEO La Consulta Popular es un paso en la direccin correcta para mejorar la democracia opina la ajedrecista httpstcocLIiPbUwR7","id": "960251461740449793","key": 960251461740449800}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyVY7zCPPsVTpSMuOy","_score": 0.41026613,"_source": {
+                    "value": "Expdte Correa cita el juicio de repeticin por preguntas de Consulta Popular httpstcoNokr9aJZYh","id": "961717947508109313","key": 961717947508109300}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyVA2hCPPsVTpSMsP4","_score": 0.40336344,"_source": {
+                    "value": "Educamos con el ejemplo ms que con el discurso La consulta popular es una leccin de democracia ConsultaPopular","id": "960187986116841472","key": 960187986116841500}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyUkEbCPPsVTpSMp4g","_score": 0.33665767,"_source": {
+                    "value": "PatricioMery janethinostroza Para erradicar a sirverguenzas y corruptos Vota siete veces SISiSISISISISiiiiiii","id": "957737021686079488","key": 957737021686079500}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyVJUaCPPsVTpSMs8n","_score": 0.32754275,"_source": {
+                    "value": "Se respira una patria nueva con Lenin Moreno EcuadorDijoS a la consulta popular con amor y paz la patria conti httpstcocNWKB75owT","id": "960503676916977669","key": 960503676916977700}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyU-rICPPsVTpSMsEh","_score": 0.32640952,"_source": {
+                    "value": "Todos no sucia consulta vota no httpstcovyqjoNKPFv","id": "960063501350981632","key": 960063501350981600}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyU_ACCPPsVTpSMsGJ","_score": 0.31032452,"_source": {
+                    "value": "Vota 7 veces Nooo httpstcolX2QVzEjrP","id": "960123695019843585","key": 960123695019843600}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyUmBhCPPsVTpSMqCn","_score": 0.29508767,"_source": {
+                    "value": "Tema para la siguiente consulta popular httpstcoJWZ9ukv9vz","id": "957843561793323008","key": 957843561793323000}},{
+                "_index": "tws_quito","_type": "id_texto","_id": "AWGyVFeKCPPsVTpSMsoF","_score": 0.2944609,"_source": {
+                    "value": "Presidente Lenin Moreno dice que todos deben respetar y honrar la voz del pueblo en la consulta popular y anuncia httpstco8vW8Q8JAth","id": "960320811029721090","key": 960320811029721100}}]}
+
+}

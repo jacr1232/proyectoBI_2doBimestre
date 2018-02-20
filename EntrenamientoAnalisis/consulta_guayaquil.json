@@ -1,0 +1,34 @@
+{
+
+    "took": 22,
+    "timed_out": false,
+    "_shards": {
+        "total": 5,
+        "successful": 5,
+        "failed": 0
+    },
+    "hits": {
+        "total": 798,"max_score": 0.42544767,"hits": [
+            {
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyXTS5CPPsVTpSM2Pb","_score": 0.42544767,"_source": {
+                    "value": "El pueblo ecuatoriano respald las siete preguntas que Moreno plante el domingo en su consulta","id": "961465484049870848","key": 961465484049870800}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyWnSdCPPsVTpSMymn","_score": 0.41520077,"_source": {
+                    "value": "SIETE VECES NO AL TRAIDOR DALE CORREA dileNO httpstco0V1Od89rTr","id": "959408528158085121","key": 959408528158085100}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyW9GgCPPsVTpSM0YL","_score": 0.40829885,"_source": {
+                    "value": "En el marco de la ConsultaPopularEc el presidente Lenin Moreno afirma que la consulta popular no tiene ganadores httpstcoeqNsnZtLL8","id": "960310792880082945","key": 960310792880083000}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyW2xSCPPsVTpSMz3c","_score": 0.3499677,"_source": {
+                    "value": "CONSULTA POPULAR El encebollado SIEMPRE","id": "960144473413046273","key": 960144473413046300}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyW-DmCPPsVTpSM0cz","_score": 0.30977404,"_source": {
+                    "value": "Ecuador dijo sisisisisisisisisisi Referendum Consulta popular httpstcoFN2PYKcpLW","id": "960322870307184641","key": 960322870307184600}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyW3f8CPPsVTpSMz7I","_score": 0.30923307,"_source": {
+                    "value": "Ecuador voto2018 Referendum Consulta popular httpstco5whpuOMph9","id": "960170592480743424","key": 960170592480743400}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyW-eyCPPsVTpSM0e8","_score": 0.3081549,"_source": {
+                    "value": "enEcuador Referendum consulta popular Perdi la corrupcion","id": "960326740257247242","key": 960326740257247200}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyW2wMCPPsVTpSMz3W","_score": 0.30595246,"_source": {
+                    "value": "CONSULTA POPULAR El encebollado siempre con","id": "960143950173671425","key": 960143950173671400}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyWH_5CPPsVTpSMwA1","_score": 0.29114696,"_source": {
+                    "value": "AXEA65 Bien Otra Obra de la Revolucin Ciudadana dejada por Rafael Correa Venceremos Por esto y ms Siete Veces httpstco7i7LcDriUA","id": "957358383421534208","key": 957358383421534200}},{
+                "_index": "tws_guayaquil","_type": "id_texto","_id": "AWGyWrhyCPPsVTpSMy9D","_score": 0.2718052,"_source": {
+                    "value": "Ecuador dice siete veces no para evitar que se lleven la patria Lenin Moreno Tengan fe no les vamos a robar httpstcoYjowPKRQe8","id": "959609107706720256","key": 959609107706720300}}]}
+
+}
