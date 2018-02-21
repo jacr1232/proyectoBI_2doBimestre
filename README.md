@@ -16,20 +16,20 @@ El proyecto funciona correctamente con los siguientes requisitos:
 *[Pip 9.0.1]
 
 
-### Installing
+### Instalación
 
 - Una vez descargado el proyecto exportalo al sistema operativo recomendado
 - Descomprimirlo.
 - Ejecutar los respectivos scrpits con las herrramientas respectivas
-## Authors
+## Autores
 
-- Beltran Daniel
+- Beltrán Daniel
 - Criollo José
 ## ASIGNATURA
 Inteligencia de Negocios
 
-Escuela Politecnica Nacional
+Escuela Politécnica Nacional
 
-Ingenieria de Ssitemas
-## Edisión
+Ingeniería de Sistemas
+## Edición
 2017-B
